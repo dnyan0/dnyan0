@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Fundamentals of Cyber Security**
 
-- 👨‍💻 All of my projects are available at [https://github.com/dnyan-s](https://github.com/dnyan-s)
+- 👨‍💻 All of my projects are available at [https://github.com/dnyan-s](https://github.com/dnyan0)
 
 - 📫 How to reach me **dnyan21092003@gmail.com**
 
