@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/dnyan0](https://github.com/dnyan0)
 
-- 📫 How to reach me **dnyananeshwarshelke224@gmail.com**
+- 📫 How to reach me **dnyaneshwarshelke224@gmail.com**
 
 - ⚡ Fun fact **Finds clarity for complex problems through the written word.**
 
