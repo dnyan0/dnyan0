@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dnyaneshwar Shelke</h1>
 <h3 align="center">A passionate Artificial Intelligence and Machine Learning Engineer</h3>
 
-- 🔭 I’m currently working on **Sign Language Translator**
+- 🔭 I’m currently working on **Ecommerce Sales Dashboard using PowerBi**
 
-- 🌱 I’m currently learning **Fundamentals of Cyber Security**
+- 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [https://github.com/dnyan-s](https://github.com/dnyan0)
+- 👨‍💻 All of my projects are available at [https://github.com/dnyan0](https://github.com/dnyan0)
 
-- 📫 How to reach me **dnyan21092003@gmail.com**
+- 📫 How to reach me **dnyananeshwarshelke224@gmail.com**
 
 - ⚡ Fun fact **Finds clarity for complex problems through the written word.**
 
